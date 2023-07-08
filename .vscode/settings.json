@@ -1,0 +1,4 @@
+{
+    "tailwindCSS.lint.invalidConfigPath": "warning",
+    "git.ignoreLimitWarning": true
+}
