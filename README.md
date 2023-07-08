@@ -1,71 +1,45 @@
-# Getting Started with Create React App
+# Portfolio2 Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Portfolio2 Website is a personal portfolio website showcasing the work, experience, and achievements of the owner. It serves as a digital resume and provides a platform to highlight skills, projects, certifications, and contact information for potential employers or clients.
 
-## Available Scripts
+## Sections
 
-In the project directory, you can run:
+The Portfolio2 Website consists of the following sections:
+<ul>
+<li><p><b>Home:</b> The home section provides an introduction and overview.</p></li>
+<li><p><b>About:</b> The about section provides detailed information about the my background, skills, and experience.</p></li>
+<li><p><b>Social:</b> The social section provides some of my social links for connecting.</p></li>
+<li><p><b>Certifications:</b> The certifications section provides recent industry certs and qualifications.</p></li>
+<li><p><b>Experience:</b> The experience section provides work experience, highlighting key skills.</p></li>
+<li><p><b>Portfolio:</b> The portfolio section provides a link to my repos on GitHub.</p></li>
+<li><p><b>Navbar:</b> The Navbar section acts as the universal navigation for the website.</p></li>
+<li><p><b>Contact:</b> The contact section provides a way for people to contact me via online form.</p></li>
+</ul>
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technologies
+<ul>
+  <li><p><b>JavaScript: </b> The primary programming language for implementing dynamic and interactive elements of the website.</p></li>
+<li><p><b>React:</b>  A popular JavaScript library for building user interfaces, providing a component-based approach for efficient development.</p></li>
+<li><p><b>Tailwind CSS:</b>  A utility-first CSS framework that streamlines the styling process, allowing for rapid prototyping and responsive design.</p></li>
+<li><p><b>Netlify:</b>  A cloud-based platform for hosting and deploying web applications, providing seamless deployment and continuous integration capabilities.</p></li>
+<li><p><b>Smooth Scroll:</b>  Implementing smooth scrolling functionality to enhance user experience when navigating through the website.</p></li>
+<li><p><b>Social Icons:</b>  Incorporating social icons to provide links to social media profiles, allowing visitors to connect with the website owner.</p></li>
+<li><p><b>Custom Fonts:</b>  Utilizing custom fonts to enhance the visual appeal and typography of the website.</p></li>
+<li><p><b>Gradient Background:</b>  Implementing gradient backgrounds to add visual interest and create a more dynamic design.</p></li>
+<li><p><b>Responsive Design:</b>  Ensuring the website is responsive and accessible across various devices and screen sizes, providing an optimal user experience.</p></li>
+</ul>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Full-Page Screenshot  
+![screencapture-garykozlowski-xyz-2023-07-08-02_55_02](https://github.com/gkozlowskidesign/Portfolio2_Website/assets/82541715/a13ee73e-115e-4b98-bac6-b6837e5942e5)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  <h2>Contributing</h2>
+  <p>Contributions to the MetaTracker Website are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.</p>
 
-### `npm run build`
+  <h2>License</h2>
+  <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Portfolio2_Website
+  <h2>Acknowledgments</h2>
+  <p>The MetaTracker Website was developed by Gary Kozlowski.</p>
+</body>
