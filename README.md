@@ -1,6 +1,6 @@
 # Portfolio2 Website
 
-The Portfolio2 Website is a personal portfolio website showcasing the work, experience, and achievements of the owner. It serves as a digital resume and provides a platform to highlight skills, projects, certifications, and contact information for potential employers or clients.
+The Portfolio2 Website is a personal portfolio website showcasing the work, experience, and achievements of my professional development life. It serves as a digital resume and provides a platform to highlight skills, projects, certifications, and contact information for potential employers or clients.
 
 ## Sections
 
