@@ -6,5 +6,8 @@ export const Routes = {
     NODE: "https://github.com/gkozlowskidesign/NodeExpressMySQL_Education",
     PR1: "https://github.com/gkozlowskidesign/Portfolio1_Website",
     SCL: "https://github.com/gkozlowskidesign/Social_Application",
-    HLTH: "https://github.com/gkozlowskidesign/Covid_Website"
+    HLTH: "https://github.com/gkozlowskidesign/Covid_Website",
+    AI: "https://github.com/gkozlowskidesign/OpenAiDALLE_Application",
+    IAM: "https://github.com/gkozlowskidesign/AWS-CloudFormation-IAM_Project",
+    PR2: "https://github.com/gkozlowskidesign/GaryKozlowski_Website"
 };
