@@ -31,8 +31,10 @@ const About = () => {
         </p>
         <p className='text-xl mt-4'>
         In 2023, I earned the AWS Certified Cloud Practitioner certification, demonstrating my proficiency in cloud 
-        technologies. As an independent developer, I actively engage in projects utilizing technologies like React 
-        Native, Tailwind CSS, MERN stack, Vite, MySQL, NoSQL, and AWS services. My GitHub repository showcases my 
+        technologies. Allowing me to guide teams through technical challenges in software development, cloud migration initiatives, 
+        workload architecture reviews, and mitigating high-risk issues. Skilled at bridging the gap between 
+        technical and business aspects of cloud initiatives. As an independent developer, I actively engage in projects utilizing 
+        technologies like React Native, Tailwind CSS, MERN stack, Vite, MySQL, NoSQL, and AWS services. My GitHub repository showcases my 
         hands-on experience and growth as a developer, specializing in building Full-Stack web applications integrating
          NoSQL, MySQL, and cloud technologies.
         </p>
