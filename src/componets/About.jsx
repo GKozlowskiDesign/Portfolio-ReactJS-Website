@@ -10,7 +10,7 @@ const About = () => {
         </div>
 
     <div>
-        <p className='text-xl mt-20'>
+        <p className='text-xl mt-10'>
         In January 2021, I joined my university's branch of the Association of Information Technology Professionals 
         (AITP) as a Project Lead Developer. Leading a team, we designed and developed a custom application UI and UX, 
         creating specialized content and documentation. Our project focused on developing a Covid-19 vaccination web 
