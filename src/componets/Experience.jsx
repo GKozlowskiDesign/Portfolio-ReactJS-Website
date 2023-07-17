@@ -24,7 +24,7 @@ const Experience = () => {
         {
         id: 2,
         src: MONGO,
-        title: 'MONGODB',
+        title: 'MongoDB',
         style: 'shadow-green-500'
         },
         {
