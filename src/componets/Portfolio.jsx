@@ -7,6 +7,9 @@ import NODE from "../assets/portfolio/developments/NODE_MYSQL.png";
 import PR1 from "../assets/portfolio/developments/PR1_WEB.png";
 import SCL from "../assets/portfolio/developments/SCL_APP.png";
 import HLTH from "../assets/portfolio/developments/HLTH_WEB.png";
+import IAM from "../assets/portfolio/developments/AWS_IAM.png";
+import AI from "../assets/portfolio/developments/AI_APP.png";
+import PR2 from "../assets/portfolio/developments/PR2_WEB.png";
 import {Routes} from "../routes";
 
 
@@ -16,43 +19,58 @@ const Portfolio = () => {
     const portfolios = [
         {
             id: 1,
+            src: PR2,
+            href: Routes.PR2
+        },
+        {
+            id: 2,
+            src: AI,
+            href: Routes.AI
+        },
+        {
+            id: 3,
+            src: IAM,
+            href: Routes.IAM
+        },
+        {
+            id: 4,
             src: BSWEB,
             href: Routes.BSWEB
         },
         {
-            id: 2,
+            id: 5,
             src: SCL,
             href: Routes.SCL
          
         },
         {
-            id: 3,
+            id: 6,
             src: NODE,
             href: Routes.NODE
     
         },
         {
-            id: 4,
+            id: 7,
             src: MTWEB,
             href: Routes.MTWEB
         },
         {
-            id: 5,
+            id: 8,
             src: MTERP,
             href: Routes.MTERP
         },
         {
-            id: 6,
+            id: 9,
             src: PR1,
             href: Routes.PR1
         },
         {
-            id: 7,
+            id: 10,
             src: HLTH,
             href: Routes.HLTH
         },
         {
-            id: 8,
+            id: 11,
             src: MTAPP,
             href: Routes.MTAPP
            
