@@ -94,7 +94,7 @@ const Experience = () => {
         id: 12,
         src: NEXT,
         title: 'NEXTJs',
-        style: 'shadow-gray-900'
+        style: 'shadow-gray-200'
         },
            {
         id: 13,
@@ -104,15 +104,15 @@ const Experience = () => {
         },
            {
         id: 14,
-        src: GITHUB,
-        title: 'GitHub',
-        style: 'shadow-indigo-800'
-        },
-             {
-        id: 15,
         src: JS,
         title: 'JavaScript',
         style: 'shadow-yellow-800'
+        },
+             {
+        id: 15,
+        src: GITHUB,
+        title: 'GitHub',
+        style: 'shadow-indigo-800'
         },
     ]
 
