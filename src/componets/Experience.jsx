@@ -108,6 +108,12 @@ const Experience = () => {
         title: 'GitHub',
         style: 'shadow-indigo-800'
         },
+             {
+        id: 15,
+        src: NEXT,
+        title: 'NextJs',
+        style: 'shadow-gray-900'
+        },
     ]
 
   return(
