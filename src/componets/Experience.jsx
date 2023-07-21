@@ -48,15 +48,15 @@ const Experience = () => {
         },
         {
         id: 5,
-        src: REACT,
-        title: 'ReactJs',
-        style: 'shadow-blue-400'
+        src: WIND,
+        title: 'Tailwind',
+        style: 'shadow-blue-600'
         },
         {
         id: 6,
-        src: WIND,
-        title: 'Tailwind',
-        style: 'shadow-blue-500'
+        src: REACT,
+        title: 'ReactJS',
+        style: 'shadow-blue-400'
        
         },
         {
@@ -92,9 +92,9 @@ const Experience = () => {
         },
            {
         id: 12,
-        src: IAM,
-        title: 'AWS IAM',
-        style: 'shadow-orange-800'
+        src: NEXT,
+        title: 'NEXTJs',
+        style: 'shadow-gray-900'
         },
            {
         id: 13,
@@ -110,9 +110,9 @@ const Experience = () => {
         },
              {
         id: 15,
-        src: NEXT,
+        src: IAM,
         title: 'NextJs',
-        style: 'shadow-gray-900'
+        style: 'shadow-red-800'
         },
     ]
 
