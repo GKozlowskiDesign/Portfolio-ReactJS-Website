@@ -67,9 +67,9 @@ const Experience = () => {
         },
         {
         id: 8,
-        src: DYN,
-        title: 'DynamoDB',
-        style: 'shadow-blue-900'
+        src: HTML,
+        title: 'HTML',
+        style: 'shadow-red-900'
        
         },
         {
@@ -86,9 +86,9 @@ const Experience = () => {
         },
         {
         id: 11,
-        src: HTML,
-        title: 'HTML',
-        style: 'shadow-red-900'
+        src: DYN,
+        title: 'DynamoDB',
+        style: 'shadow-blue-900'
         },
            {
         id: 12,
@@ -111,7 +111,7 @@ const Experience = () => {
              {
         id: 15,
         src: IAM,
-        title: 'NextJs',
+        title: 'IAM',
         style: 'shadow-red-800'
         },
     ]
