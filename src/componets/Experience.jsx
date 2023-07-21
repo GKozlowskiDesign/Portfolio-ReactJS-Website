@@ -60,8 +60,8 @@ const Experience = () => {
         },
         {
         id: 7,
-        src: IAM,
-        title: 'IAM',
+        src: GIT,
+        title: 'GIT',
         style: 'shadow-red-500'
         },
         {
@@ -73,8 +73,8 @@ const Experience = () => {
         },
         {
         id: 9,
-        src: GIT,
-        title: 'GIT',
+        src: IAM,
+        title: 'IAM',
         style: 'shadow-red-500'
         },
         {
