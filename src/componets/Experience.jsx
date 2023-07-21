@@ -10,6 +10,12 @@ import HTML from "../assets/Code/HTML.png"
 import CSS from "../assets/Code/CSS.png"
 import REACT from "../assets/Code/REACT.png"
 import JS from "../assets/Code/JS.png"
+import GITHUB from "../assets/Code/GitHub.png"
+import AMP from "../assets/Code/AMPLIFY.png"
+import IAM from "../assets/Code/IAM.png"
+import DYN from "../assets/Code/DYNAMODB.png"
+import NEXT from "../assets/Code/NEXT.png"
+
 
 
 const Experience = () => {
@@ -77,6 +83,30 @@ const Experience = () => {
         src: GIT,
         title: 'GIT',
         style: 'shadow-orange-800'
+        },
+        {
+        id: 11,
+        src: DYN,
+        title: 'AWS DynamoDB',
+        style: 'shadow-blue-900'
+        },
+           {
+        id: 12,
+        src: IAM,
+        title: 'AWS IAM',
+        style: 'shadow-orange-800'
+        },
+           {
+        id: 13,
+        src: AMP,
+        title: 'AWS Amplify',
+        style: 'shadow-orange-800'
+        },
+           {
+        id: 14,
+        src: GITHUB,
+        title: 'GitHub',
+        style: 'shadow-indigo-800'
         },
     ]
 
