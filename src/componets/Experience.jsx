@@ -61,14 +61,14 @@ const Experience = () => {
         },
         {
         id: 7,
-        src: MONGO,
-        title: 'MongoDB',
-        style: 'shadow-green-500'
+        src: GIT,
+        title: 'GIT',
+        style: 'shadow-red-500'
         },
         {
         id: 8,
         src: DYN,
-        title: 'HTML',
+        title: 'DynamoDB',
         style: 'shadow-blue-900'
        
         },
@@ -80,9 +80,9 @@ const Experience = () => {
         },
         {
         id: 10,
-        src: GIT,
-        title: 'GIT',
-        style: 'shadow-orange-800'
+        src: MONGO,
+        title: 'MongoDB',
+        style: 'shadow-green-800'
         },
         {
         id: 11,
