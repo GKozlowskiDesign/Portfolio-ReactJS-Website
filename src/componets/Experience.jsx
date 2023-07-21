@@ -61,9 +61,9 @@ const Experience = () => {
         },
         {
         id: 7,
-        src: JS,
-        title: 'JavaScript',
-        style: 'shadow-yellow-500'
+        src: IAM,
+        title: 'IAM',
+        style: 'shadow-red-500'
         },
         {
         id: 8,
@@ -80,9 +80,9 @@ const Experience = () => {
         },
         {
         id: 10,
-        src: MONGO,
-        title: 'MongoDB',
-        style: 'shadow-green-800'
+        src: DYN,
+        title: 'DynamoDB',
+        style: 'shadow-blue-800'
         },
         {
         id: 11,
@@ -98,9 +98,9 @@ const Experience = () => {
         },
            {
         id: 13,
-        src: DYN,
-        title: 'DynamoDB',
-        style: 'shadow-blue-800'
+        src: MONGO,
+        title: 'MongoDB',
+        style: 'shadow-green-800'
         },
            {
         id: 14,
@@ -110,9 +110,9 @@ const Experience = () => {
         },
              {
         id: 15,
-        src: IAM,
-        title: 'IAM',
-        style: 'shadow-red-800'
+        src: JS,
+        title: 'JavaScript',
+        style: 'shadow-yellow-800'
         },
     ]
 
