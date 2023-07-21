@@ -61,9 +61,9 @@ const Experience = () => {
         },
         {
         id: 7,
-        src: GIT,
-        title: 'GIT',
-        style: 'shadow-red-500'
+        src: JS,
+        title: 'JavaScript',
+        style: 'shadow-yellow-500'
         },
         {
         id: 8,
@@ -74,9 +74,9 @@ const Experience = () => {
         },
         {
         id: 9,
-        src: JS,
-        title: 'JavaScript',
-        style: 'shadow-yellow-500'
+        src: GIT,
+        title: 'GIT',
+        style: 'shadow-red-500'
         },
         {
         id: 10,
@@ -86,9 +86,9 @@ const Experience = () => {
         },
         {
         id: 11,
-        src: DYN,
-        title: 'DynamoDB',
-        style: 'shadow-blue-900'
+        src: AMP,
+        title: 'Amplify',
+        style: 'shadow-orange-900'
         },
            {
         id: 12,
@@ -98,9 +98,9 @@ const Experience = () => {
         },
            {
         id: 13,
-        src: AMP,
-        title: 'AWS Amplify',
-        style: 'shadow-orange-800'
+        src: DYN,
+        title: 'DynamoDB',
+        style: 'shadow-blue-800'
         },
            {
         id: 14,
