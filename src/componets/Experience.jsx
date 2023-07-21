@@ -29,9 +29,9 @@ const Experience = () => {
         },
         {
         id: 2,
-        src: MONGO,
-        title: 'MongoDB',
-        style: 'shadow-green-500'
+        src: WIND,
+        title: 'Tailwind',
+        style: 'shadow-blue-500'
         },
         {
         id: 3,
@@ -48,8 +48,8 @@ const Experience = () => {
         },
         {
         id: 5,
-        src: WIND,
-        title: 'Tailwind',
+        src: CSS,
+        title: 'CSS',
         style: 'shadow-blue-600'
         },
         {
@@ -61,15 +61,15 @@ const Experience = () => {
         },
         {
         id: 7,
-        src: CSS,
-        title: 'CSS',
-        style: 'shadow-blue-500'
+        src: MONGO,
+        title: 'MongoDB',
+        style: 'shadow-green-500'
         },
         {
         id: 8,
-        src: HTML,
+        src: DYN,
         title: 'HTML',
-        style: 'shadow-red-500'
+        style: 'shadow-blue-900'
        
         },
         {
@@ -86,9 +86,9 @@ const Experience = () => {
         },
         {
         id: 11,
-        src: DYN,
-        title: 'AWS DynamoDB',
-        style: 'shadow-blue-900'
+        src: HTML,
+        title: 'HTML',
+        style: 'shadow-red-900'
         },
            {
         id: 12,
