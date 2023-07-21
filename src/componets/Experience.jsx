@@ -10,7 +10,6 @@ import HTML from "../assets/Code/HTML.png"
 import CSS from "../assets/Code/CSS.png"
 import REACT from "../assets/Code/REACT.png"
 import JS from "../assets/Code/JS.png"
-import GITHUB from "../assets/Code/GITHUB.png"
 import AMP from "../assets/Code/AMPLIFY.png"
 import IAM from "../assets/Code/IAM.png"
 import DYN from "../assets/Code/DYNAMODB.png"
@@ -29,9 +28,9 @@ const Experience = () => {
         },
         {
         id: 2,
-        src: WIND,
-        title: 'Tailwind',
-        style: 'shadow-blue-500'
+        src: JS,
+        title: 'JavaScript',
+        style: 'shadow-yellow-500'
         },
         {
         id: 3,
@@ -104,16 +103,11 @@ const Experience = () => {
         },
            {
         id: 14,
-        src: JS,
-        title: 'JavaScript',
-        style: 'shadow-yellow-800'
+        src: WIND,
+        title: 'TailWind',
+        style: 'shadow-blue-500'
         },
-             {
-        id: 15,
-        src: GITHUB,
-        title: 'GitHub',
-        style: 'shadow-indigo-800'
-        },
+    
     ]
 
   return(
