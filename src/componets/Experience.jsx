@@ -93,7 +93,7 @@ const Experience = () => {
         id: 12,
         src: NEXT,
         title: 'NEXTJs',
-        style: 'shadow-white'
+        style: 'shadow-gray-900'
         },
            {
         id: 13,
