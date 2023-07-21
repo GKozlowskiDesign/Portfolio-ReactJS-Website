@@ -43,7 +43,7 @@ const Experience = () => {
         id: 4,
         src: SQL,
         title: 'MySQL',
-        style: 'shadow-blue-500'
+        style: 'shadow-sky-500'
         },
         {
         id: 5,
@@ -55,7 +55,7 @@ const Experience = () => {
         id: 6,
         src: REACT,
         title: 'ReactJS',
-        style: 'shadow-blue-400'
+        style: 'shadow-teal-400'
        
         },
         {
@@ -68,14 +68,14 @@ const Experience = () => {
         id: 8,
         src: HTML,
         title: 'HTML',
-        style: 'shadow-red-900'
+        style: 'shadow-red-500'
        
         },
         {
         id: 9,
         src: IAM,
         title: 'IAM',
-        style: 'shadow-red-500'
+        style: 'shadow-rose-500'
         },
         {
         id: 10,
@@ -93,7 +93,7 @@ const Experience = () => {
         id: 12,
         src: NEXT,
         title: 'NEXTJs',
-        style: 'shadow-gray-900'
+        style: 'shadow-indigo-800'
         },
            {
         id: 13,
