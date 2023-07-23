@@ -8,7 +8,7 @@ const SocialLinks = () => {
         id: 1,
         child: (
         <>
-        Twitter <FaTwitter size={25} />
+        Twitter <FaTwitter size={28} />
         </>
         ),
         href: 'https://twitter.com/GaryKozlowski1',
