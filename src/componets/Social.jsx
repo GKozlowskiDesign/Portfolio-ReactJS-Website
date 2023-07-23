@@ -17,7 +17,7 @@ const SocialLinks = () => {
         id: 2,
         child: (
         <>
-        GitHub <FaGithub size={25} />
+        GitHub <FaGithub size={28} />
         </>
         ),
         href: 'https://github.com/gkozlowskidesign',
@@ -26,7 +26,7 @@ const SocialLinks = () => {
         id: 3,
         child: (
         <>
-        LinkedIn <FaLinkedin size={25} />
+        LinkedIn <FaLinkedin size={28} />
         </>
         ),
         href: 'https://www.linkedin.com/in/gary-kozlowski-825053138/',
@@ -36,7 +36,7 @@ const SocialLinks = () => {
         id: 4,
         child: (
         <>
-        Mail <HiOutlineMail size={25} />
+        Mail <HiOutlineMail size={28} />
         </>
         ),
         href: 'mailto:gkozlowskibusiness@outlook.com',        
