@@ -4,7 +4,7 @@ import AWS from '../assets/image.png'
 const Certifications = () => {
 
   return (
-  <div name="home" className='w-full bg-gray-900 pt-10 pb-10'>
+  <div name="home" className='w-full bg-black pt-10 pb-10'>
           
     <div className='max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full p-2 md:flex-row'>
  
