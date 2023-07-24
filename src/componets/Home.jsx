@@ -4,7 +4,7 @@ import Gary from '../assets/GaryK-1.jpg'
 const Home = () => {
 
   return (
-  <div name="home" className='w-full bg-gradient-to-r from-black  to-gray-900 pt-40 pb-40'>
+  <div name="home" className='w-full bg-gradient-to-b from-black  to-gray-900 pt-40 pb-40'>
           
           
     <div className='max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full p-10 md:flex-row'>
