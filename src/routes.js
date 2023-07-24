@@ -9,5 +9,6 @@ export const Routes = {
     HLTH: "https://github.com/gkozlowskidesign/Covid_Website",
     AI: "https://github.com/gkozlowskidesign/OpenAiDALLE_Application",
     IAM: "https://github.com/gkozlowskidesign/AWS-CloudFormation-IAM_Project",
-    PR2: "https://github.com/gkozlowskidesign/GaryKozlowski_Website"
+    PR2: "https://github.com/gkozlowskidesign/GaryKozlowski_Website",
+    SDK: "https://github.com/gkozlowskidesign/TypescriptNodeSDK_Project"
 };
