@@ -123,7 +123,7 @@ const Experience = () => {
         tech.map(({id, src, title, style}) => (
         <div
         key={id} 
-        className={`shadow-md border-2 border-black bg-gradient-to-b from-black to-gray-900 hover:scale-105 duration-500 py-2 rounded-lg ${style}`}>
+        className={`shadow-md border border-black hover:scale-105 duration-500 py-2 rounded-lg ${style}`}>
             <img className="w-1/4 mx-auto" src={src} alt="" />
             <p className="mt-4">{title}</p>
         </div>
