@@ -10,5 +10,6 @@ export const Routes = {
     AI: "https://github.com/gkozlowskidesign/OpenAiDALLE_Application",
     IAM: "https://github.com/gkozlowskidesign/AWS-CloudFormation-IAM_Project",
     PR2: "https://github.com/gkozlowskidesign/GaryKozlowski_Website",
-    SDK: "https://github.com/gkozlowskidesign/TypescriptNodeSDK_Project"
+    SDK: "https://github.com/gkozlowskidesign/TypescriptNodeSDK_Project",
+    LAW: "https://github.com/gkozlowskidesign/LawFirm_Website"
 };
