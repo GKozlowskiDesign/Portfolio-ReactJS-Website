@@ -11,6 +11,7 @@ import IAM from "../assets/portfolio/developments/AWS_IAM.png";
 import AI from "../assets/portfolio/developments/AI_APP.png";
 import PR2 from "../assets/portfolio/developments/PR2_WEB.png";
 import SDK from "../assets/portfolio/developments/NODE_SDK.png";
+import LAW from "../assets/portfolio/developments/LAW_WEB.png
 import {Routes} from "../routes";
 
 
@@ -20,63 +21,68 @@ const Portfolio = () => {
     const portfolios = [
         {
             id: 1,
+            src: LAW,
+            href: Routes.LAW
+        },
+        {
+            id: 2,
             src: SDK,
             href: Routes.SDK
         },
         {
-            id: 2,
+            id: 3,
             src: PR2,
             href: Routes.PR2
         },
         {
-            id: 3,
+            id: 4,
             src: AI,
             href: Routes.AI
         },
         {
-            id: 4,
+            id: 5,
             src: IAM,
             href: Routes.IAM
         },
         {
-            id: 5,
+            id: 6,
             src: BSWEB,
             href: Routes.BSWEB
         },
         {
-            id: 6,
+            id: 7,
             src: SCL,
             href: Routes.SCL
          
         },
         {
-            id: 7,
+            id: 8,
             src: NODE,
             href: Routes.NODE
     
         },
         {
-            id: 8,
+            id: 9,
             src: MTWEB,
             href: Routes.MTWEB
         },
         {
-            id: 9,
+            id: 10,
             src: MTERP,
             href: Routes.MTERP
         },
         {
-            id: 10,
+            id: 11,
             src: PR1,
             href: Routes.PR1
         },
         {
-            id: 11,
+            id: 12,
             src: HLTH,
             href: Routes.HLTH
         },
         {
-            id: 12,
+            id: 13,
             src: MTAPP,
             href: Routes.MTAPP
            
