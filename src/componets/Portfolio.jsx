@@ -11,7 +11,7 @@ import IAM from "../assets/portfolio/developments/AWS_IAM.png";
 import AI from "../assets/portfolio/developments/AI_APP.png";
 import PR2 from "../assets/portfolio/developments/PR2_WEB.png";
 import SDK from "../assets/portfolio/developments/NODE_SDK.png";
-import LAW from "../assets/portfolio/developments/LAW_WEB.png
+import LAW from "../assets/portfolio/developments/LAW_WEB.png";
 import {Routes} from "../routes";
 
 
