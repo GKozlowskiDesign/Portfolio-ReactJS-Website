@@ -35,11 +35,11 @@ The Portfolio2 Website consists of the following sections:
 ![screencapture-garykozlowski-xyz-2023-07-08-02_55_02](https://github.com/gkozlowskidesign/Portfolio2_Website/assets/82541715/a13ee73e-115e-4b98-bac6-b6837e5942e5)
 
   <h2>Contributing</h2>
-  <p>Contributions to the MetaTracker Website are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.</p>
+  <p>Contributions to the Website are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.</p>
 
   <h2>License</h2>
   <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
 
   <h2>Acknowledgments</h2>
-  <p>The MetaTracker Website was developed by Gary Kozlowski.</p>
+  <p>The Website was developed by Gary Kozlowski.</p>
 </body>
