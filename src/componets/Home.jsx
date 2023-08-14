@@ -8,10 +8,10 @@ const Home = () => {
             <h2 className='lg:text-8xl text-6xl font-signature text-black px-4 py-4'>GKDesign</h2> 
         </div>
         <div className='px-12 py-12 m-4 p-4 rounded-xl  ring-gray-900'>
-            <img src={Gary} alt="My Profile" 
+          {/* <img src={Gary} alt="My Profile" 
               class="rounded-xl"
               className="rounded-xl  border-2 mx-auto w-4/6 lg:w-3/6"
-            />
+            /> */}
         </div>
     </div>  
   </div>
