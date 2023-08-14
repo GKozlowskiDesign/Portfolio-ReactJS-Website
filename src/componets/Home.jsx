@@ -2,6 +2,7 @@ import React from 'react';
 import Gary from '../assets/GaryK-1.jpg'
 const Home = () => {
   return (
+  {/* Hero */}
   <div name="home" className='w-full bg-white pt-40 pb-40'>     
     <div className='max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full p-10 md:flex-row'>
         <div className='flex flex-col justify-center h-full'>
