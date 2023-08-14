@@ -1,5 +1,5 @@
 import React from 'react';
-import Gary from '../assets/GaryK-1.jpg'
+{/* import Gary from '../assets/GaryK-1.jpg' */}
 const Home = () => {
   return (
   <div name="home" className='w-full bg-white pt-40 pb-40'>     
