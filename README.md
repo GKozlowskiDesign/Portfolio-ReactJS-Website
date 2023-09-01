@@ -13,13 +13,15 @@ The Portfolio2 Website is a personal portfolio website showcasing the work, expe
   <li>Contributions</li>
   <li>License</li>
   <li>Acknowledgments</li>
-
-
 </ul>
 
-# General Info
-
 # Featured
+<ul>
+  <li>I learned to properly use Tailwind (Flexbox & Grid)</li>
+  <li>I learned how to efficiently Design User-Interfaces with Figma</li>
+  <li>I learned how to take Figma Designs and convert them into ReactJS Components</li>
+  <li>I learned to use React Scroll</li>
+</ul>
 
 # Technologies
 <ul>
@@ -34,9 +36,12 @@ The Portfolio2 Website is a personal portfolio website showcasing the work, expe
 <li><p><b>Responsive Design:</b>  Ensuring the website is responsive and accessible across various devices and screen sizes, providing an optimal user experience.</p></li>
 </ul>
 
-# Workflow
+# Illustrations 
+<h3>User-Interface</h3>
 
-# UI Components
+![screencapture-garykozlowski-xyz-2023-07-08-02_55_02](https://github.com/gkozlowskidesign/Portfolio2_Website/assets/82541715/a13ee73e-115e-4b98-bac6-b6837e5942e5)
+
+<h3>UI Components</h3>
 <ul>
 <li><p><b>Home:</b> The home section provides an introduction and overview.</p></li>
 <li><p><b>About:</b> The about section provides detailed information about the my background, skills, and experience.</p></li>
@@ -48,9 +53,7 @@ The Portfolio2 Website is a personal portfolio website showcasing the work, expe
 <li><p><b>Contact:</b> The contact section provides a way for people to contact me via online form.</p></li>
 </ul>
 
-
-# Illustrations 
-![screencapture-garykozlowski-xyz-2023-07-08-02_55_02](https://github.com/gkozlowskidesign/Portfolio2_Website/assets/82541715/a13ee73e-115e-4b98-bac6-b6837e5942e5)
+![251944513-a13ee73e-115e-4b98-bac6-b6837e5942e5 copy-1](https://github.com/GKozlowskiDesign/Project_PortfolioWebsiteReactJS/assets/82541715/e584ff67-6233-4219-b844-7a76f01d75b0)
 
 # Contributing
 <p>Contributions to the Website are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.</p>
