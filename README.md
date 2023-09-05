@@ -23,16 +23,17 @@ The Portfolio2 Website is a personal portfolio website showcasing the work, expe
 </ol>
 
 # Technologies
-<h3><b>JavaScript </b></h3> 
-  <p>The primary programming language for implementing dynamic and interactive elements of the website.</p>
-<h3><b>ReactJS</b></h3> 
-  <p>A popular JavaScript library for building user interfaces, providing a component-based approach for efficient development.</p>
-<h3><b>Tailwind CSS</b></h3> 
-  <p> A utility-first CSS framework that streamlines the styling process, allowing for rapid prototyping and responsive design.</p>
-<h3><b>Netlify</b></h3> 
-  <p> A cloud-based platform for hosting and deploying web applications, providing seamless deployment and continuous integration capabilities.</p>
-<h3><b>Custom Fonts</b></h3> 
-  <p>  Utilizing custom fonts to enhance the visual appeal and typography of the website.</p>
+<ul>
+<li><p><b>JavaScript: </b> The primary programming language for implementing dynamic and interactive elements of the website.</p></li>
+<li><p><b>React:</b>  A popular JavaScript library for building user interfaces, providing a component-based approach for efficient development.</p></li>
+<li><p><b>Tailwind CSS:</b>  A utility-first CSS framework that streamlines the styling process, allowing for rapid prototyping and responsive design.</p></li>
+<li><p><b>Netlify:</b>  A cloud-based platform for hosting and deploying web applications, providing seamless deployment and continuous integration capabilities.</p></li>
+<li><p><b>Smooth Scroll:</b>  Implementing smooth scrolling functionality to enhance user experience when navigating through the website.</p></li>
+<li><p><b>Social Icons:</b>  Incorporating social icons to provide links to social media profiles, allowing visitors to connect with the website owner.</p></li>
+<li><p><b>Custom Fonts:</b>  Utilizing custom fonts to enhance the visual appeal and typography of the website.</p></li>
+<li><p><b>Gradient Background:</b>  Implementing gradient backgrounds to add visual interest and create a more dynamic design.</p></li>
+<li><p><b>Responsive Design:</b>  Ensuring the website is responsive and accessible across various devices and screen sizes, providing an optimal user experience.</p></li>
+</ul>
 
 
 # Design and Development
